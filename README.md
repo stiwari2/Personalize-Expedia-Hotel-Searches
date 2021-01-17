@@ -4,9 +4,9 @@ Kaggle - Personalize Expedia Hotel Searches - ICDM 2013
 Dataset- The Kaggle dataset is split into a training and a test set from the original dataset. Essentially, the dataset contains information about a search query of a user for a hotel, the hotel properties that resulted and for the training set, whether the user clicked on the hotel and booked it.
 
 1) File descriptions
-training_set - the training set
-test_set - the test set
-submission_sample - a sample submission file in the correct format
+  training_set - the training set
+  test_set - the test set
+  submission_sample - a sample submission file in the correct format
 
 
 2. Data fields
